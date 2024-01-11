@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 💡 Being a self-learner and researcher, I love tackling real-world problems by building solutions and driven for optimization
 
-💬 Ask me about how I encounter computers for the first time growing up in Asia (It is funny)
+💬 Ask me about how I encounter computers for the first time growing up in Asia
